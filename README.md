@@ -1,4 +1,4 @@
-  # Jornada Python ( Hashtag Programações )
+  # Jornada Python ( Hashtag Programação )
 
 Aula 01 - utilizando a biblioteca pyautogui e pandas para criar uma automação que tem a função de cadastrar produtos no sistema de uma Empresa
 
